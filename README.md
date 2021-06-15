@@ -1,3 +1,13 @@
+<!-- 
+## **공지📢** 
+
+```
+라벨🏷️ 권한이 없어서 사용을 못하고 계신다는 의견이 있던데 다른분도 PR 올리실 때 라벨🏷️ 사용이 안된다면 저에게 알려주세요!
+```
+<h1 align="center"> <img src="https://user-images.githubusercontent.com/55871242/121137474-a2049100-c871-11eb-85a3-ff381eb7cf1d.png"> </h1>
+
+-----
+-->
 <h1 align="center"> <img src="https://github.com/Heongilee/CodingTestStudy/blob/master/assets/black.gif?raw=true" width=300 height=300> </h1>
 
 -----
@@ -5,7 +15,8 @@
 # ✏️ **코딩테스트 기출 문제 풀이 및 업로드 저장소**
 
 ### **링크**
-[**문제_추천하러_바로가기**](https://github.com/Heongilee/CodingTestStudy/discussions)
+[**➡️문제_추천하러_바로가기🙋🏻‍♂️**](https://github.com/Heongilee/CodingTestStudy/discussions)   
+[**➡️다른사람은_어떻게_풀었을까🤔**](https://github.com/Heongilee/CodingTestStudy/pulls?q=is%3Apr+is%3Aclosed)
 
 
 ### **규칙**
@@ -13,7 +24,7 @@
 * 문제 선정 범위는 우선은 [BaekJoon](https://www.acmicpc.net/), [Programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges), [LeetCode](https://leetcode.com/)로 하겠습니다. (더욱 괜찮은 사이트 있으면 추천 부탁드립니다!)
 * Pull Request로 자신이 푼 문제를 업로드 하고, 커밋 메시지는 문제이름으로 통일 (예 : 벽돌깨기, 대기업 승범이네)
 * 개인 코드는 본인의 :octocat:`깃허브 아이디`를 이름으로 폴더로 만들어서 관리해주세요.
-* 비정기적으로 백준 연습 시스템을 이용한 코딩 대회도 만들면 좋을 것 같습니다. (2시간에 3문제 잡고 문제 풀고 즉석에서 코드리뷰 진행)
+* 비정기적으로 백준 연습 시스템을 이용한 코딩 대회도 만들면 좋을 것 같습니다. (2시간에 3문제 정도 문제 풀고 즉석에서 코드리뷰 진행)
 * 맨 하단에 `💻 문제 목록`을 참고하셔서 해당 주차에 풀 문제를 추천해주셔도 좋습니다.
 * 자신이 기여한 내용은 다음과 같이 작성. (개인 노션이나, 블로그 링크를 적어두어도 좋습니다!)
 ![image](https://user-images.githubusercontent.com/55871242/120601174-95a0c280-c484-11eb-8d9c-6e42cbe1fbb4.png)
@@ -42,8 +53,9 @@
 ## **📅 일정표 (06.04 ~ 매주 3문제)**
 | |1|2|3|
 |:-:|:-:|:-:|:-:|
-|0주차(06.04~06.06)|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[A+B](https://www.acmicpc.net/problem/1000)|[DNA](https://www.acmicpc.net/problem/1969)|
+|2주차(06.14~06.20)|[소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)|[토마토](https://www.acmicpc.net/problem/7569)|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|
 |1주차(06.07~06.13)|[숫자 정사각형](https://www.acmicpc.net/problem/1051)|[캠핑](https://www.acmicpc.net/problem/4796)|[용돈관리](https://www.acmicpc.net/problem/6236)|
+|0주차(06.04~06.06)|[수 정렬하기 3](https://www.acmicpc.net/problem/10989)|[A+B](https://www.acmicpc.net/problem/1000)|[DNA](https://www.acmicpc.net/problem/1969)|
 
 -----
 ## **💻 문제 목록**
